@@ -1,0 +1,30 @@
+1° Entender a semelhança do React com TAGS HTML!
+	-React lida com comportamentos de componentes, sendo componentes a base do React.
+	-Um componente React é uma função tradicional do JavaScript.
+
+2° Criar nosso primeiro componente REACT! -> CapsLock
+	<CapsLock texto="Me deixa em Caps Lock por favor"/>
+
+	function CapsLock(props){
+		const textoInserido = props.texto;
+		const textoEmCapsLock = textoInserido.toUpperCase();
+		return <div>{textoEmCapsLock}</div>
+	}
+
+3° Acessar a propriedade Children de um Componente!
+	function CapsLock(props){
+    	const textoInserido = props.children;
+    	const textoEmCapsLock = textoInserido.toUpperCase();
+    	return <div>{textoEmCapsLock}</div>
+	}
+
+	function Pagina(){
+    	return <CapsLock>Show!!</CapsLock>
+	}
+
+4° Fazer o componente ter memória (state). Gerenciamento de status dentro do componente.
+
+5° Entender o Comportamento declarativo da parte visual.
+
+
+Conteudo retirado do canal Filipe Deschamps: https://www.youtube.com/watch?v=aJR7f45dBNs
