@@ -26,5 +26,4 @@
 
 <p>5° Entender o Comportamento declarativo da parte visual.
 
-
-<p>Conteudo retirado do canal Filipe Deschamps: <a target="_blank" href="https://www.youtube.com/watch?v=aJR7f45dBNs"><img height="30" width="80" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<p>Conteudo retirado do canal Filipe Deschamps: </p><a target="_blank" href="https://www.youtube.com/watch?v=aJR7f45dBNs"><img height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
